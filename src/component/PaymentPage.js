@@ -31,8 +31,8 @@ const{shoppingCart,sum}=props;
                 <div className="col-1"></div>
                 </div> </div>
                  ))}
-<div className="row"><h1 className="text-center  mt-5">Total payment:  $ {sum} </h1></div>
-<button className="btn-secondary mt-3" >To be paid by credit card</button>
+<div className="row"><h1 className="text-center  mt-5">Total to payment:  $ {sum} </h1></div>
+<button className="btn-secondary mt-3" >To be paid by credit card click</button>
 </div>
         </>
 
